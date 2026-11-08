@@ -6,7 +6,7 @@ Aprende inglés con tus propios vídeos: sesión diaria, práctica, conversació
 
 **[⬇ Descargar english-with-friends.apk](https://github.com/pacomar2009-glitch/english-with-friends-android/releases/latest/download/english-with-friends.apk)**
 
-Funciona en móviles y tablets Android 7.0 o superior. Versión actual: 1.2.1.
+Funciona en móviles y tablets Android 7.0 o superior. Versión actual: 1.2.2.
 
 ## Instalar
 
@@ -24,7 +24,7 @@ Necesitas conexión a internet para usar la IA.
 
 ## Verificar la descarga (opcional)
 
-SHA-256: `5f86097107147850128c1dc02a41a3cd9b8dacf971a96cc3109a1d123cfe6563`
+SHA-256: `446f8cfe37a822a266d0ebbd3b9b3e7781843422ca885644b4dd707bc4142644`
 
 ```
 certutil -hashfile english-with-friends.apk SHA256     (Windows)
