@@ -6,7 +6,7 @@ Aprende inglés con tus propios vídeos: sesión diaria, práctica, conversació
 
 **[⬇ Descargar english-with-friends.apk](https://github.com/pacomar2009-glitch/english-with-friends-android/releases/latest/download/english-with-friends.apk)**
 
-Funciona en móviles y tablets Android 7.0 o superior. Versión actual: 1.1.0.
+Funciona en móviles y tablets Android 7.0 o superior. Versión actual: 1.2.0.
 
 ## Instalar
 
@@ -17,14 +17,14 @@ Funciona en móviles y tablets Android 7.0 o superior. Versión actual: 1.1.0.
 ## Primer uso
 
 1. Crea tu cuenta (email y contraseña de al menos 10 caracteres) o entra con la de **Marca Express** si ya la tienes; en ese caso te preguntará si quieres activar English with Friends.
-2. Empiezas con un pequeño crédito de IA de bienvenida. La IA (ejercicios, corrección, conversación y voz) va incluida con tu cuenta: **no necesitas ninguna clave**.
+2. Empiezas con crédito de IA incluido: un pequeño crédito de bienvenida y, mientras dure la promoción, un cupo mensual de IA. La IA (ejercicios, corrección, conversación y voz) va incluida con tu cuenta: **no necesitas ninguna clave**.
 3. Tu progreso se guarda en tu dispositivo. En **Ajustes** ves tu cuenta y tu crédito, y puedes cerrar sesión.
 
 Necesitas conexión a internet para usar la IA.
 
 ## Verificar la descarga (opcional)
 
-SHA-256: `ee3eeaf62b2b6abfbfdb2df8bb445de2e693f4a1ccd6cc67bded05049f6d5ae1`
+SHA-256: `9191f27ca3aa1b944bf535408e62af18cdba854ca25da56b29868cd34a2836bf`
 
 ```
 certutil -hashfile english-with-friends.apk SHA256     (Windows)
